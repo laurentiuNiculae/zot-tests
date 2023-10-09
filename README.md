@@ -8,9 +8,9 @@ To Run
 
 Arguments
 
-- 1. port
-- 2. username for basic auth
-- 3. password for basic auth
+- 1: port
+- 2: username for basic auth
+- 3: password for basic auth
 
 Flags
 
